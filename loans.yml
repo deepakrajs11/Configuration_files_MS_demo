@@ -5,7 +5,7 @@ loans:
   message: "Welcome to EazyBank loans related local APIs "
   contactDetails:
     name: "Amaal Grega - Developer"
-    email: "amaal@eazybank.com"
+    email: "{cipher}cfab78a2251ff338528506c3b15cf2242589b5b0265a2693b0e8367f4474636854025224da0a410cb3946a1d3d32ad18"
   onCallSupport:
     - (452) 456-2176
     - (546) 764-8934
