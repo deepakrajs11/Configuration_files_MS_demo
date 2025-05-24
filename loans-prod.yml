@@ -4,7 +4,7 @@ build:
 loans:
   message: "Welcome to EazyBank loans related prod APIs "
   contactDetails:
-    name: "Deepak - Product Owner"
+    name: "Deepakraj S - Product Owner"
     email: "{cipher}8560eb9566e664d2010c3dcc2607634b3d38d01d0fdc3262be81d1d64d71a33e523d87cf1290c0395e3086584222dbbf"
   onCallSupport:
     - (723) 656-8709
