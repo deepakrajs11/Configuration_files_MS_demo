@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related local APIs "
   contactDetails:
-    name: "John Doe - Developer"
+    name: "Hariprasath Srinivasan - Developer"
     email: "{cipher}d1c91e6014025f92d3d72126a632077a698887fcd875e207cabb68d91a315d56fb391c87c7b84d50da7eae1d76b38653"
   onCallSupport:
     - (555) 555-1234
